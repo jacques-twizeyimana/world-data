@@ -2017,6 +2017,18 @@
       "long": 26
     }
   },
+
+  {
+    "name": "South Sudan",
+    "code": "SS",
+    "flag": "🇸🇸",
+    "currency": "South Sudanese Pound",
+    "currencyCode": "SSP",
+    "location": {
+      "lat": 8,
+      "long": 30
+    }
+  },
   {
     "name": "Sri Lanka",
     "code": "LK",

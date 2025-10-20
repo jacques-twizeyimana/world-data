@@ -89,10 +89,10 @@
   },
   {
     "name": "Australia",
-    "code": "",
-    "flag": "",
-    "currency": "",
-    "currencyCode": "",
+   "code": "AU",
+    "flag": "🇦🇺",
+    "currency": "Australian Dollars",
+    "currencyCode": "AUD",
     "location": {
       "lat": -25,
       "long": 135
@@ -1057,10 +1057,10 @@
   },
   {
     "name": "Libya",
-    "code": "",
-    "flag": "",
-    "currency": "",
-    "currencyCode": "",
+    "code": "LY",
+    "flag": "🇱🇾",
+    "currency": "Libyan Dinar",
+    "currencyCode": "LYD",
     "location": {
       "lat": 25,
       "long": 17
@@ -1519,10 +1519,10 @@
   },
   {
     "name": "Republic of Korea",
-    "code": "",
-    "flag": "",
-    "currency": "",
-    "currencyCode": "",
+    "code": "KR",
+    "flag": "🇰🇷",
+    "currency": "Won",
+    "currencyCode": "KRW",
     "location": {
       "lat": 37,
       "long": 127.5
@@ -1706,10 +1706,10 @@
   },
   {
     "name": "Slovakia",
-    "code": "",
-    "flag": "",
-    "currency": "",
-    "currencyCode": "",
+   "code": "SK",
+    "flag": "🇸🇰",
+    "currency": "Koruna",
+    "currencyCode": "SKK",
     "location": {
       "lat": 48.666667,
       "long": 19.5
@@ -1761,10 +1761,10 @@
   },
   {
     "name": "South Sudan",
-    "code": "",
-    "flag": "",
-    "currency": "",
-    "currencyCode": "",
+    "code": "SS",
+    "flag": "🇸🇸",
+    "currency": "South Sudanese Pound",
+    "currencyCode": "SSP",
     "location": {
       "lat": 8,
       "long": 30
@@ -2025,10 +2025,10 @@
   },
   {
     "name": "United States of America",
-    "code": "",
-    "flag": "",
-    "currency": "",
-    "currencyCode": "",
+    "code": "US",
+    "flag": "🇺🇸",
+    "currency": "USD",
+    "currencyCode": "USD",
     "location": {
       "lat": 39.828175,
       "long": -98.5795
